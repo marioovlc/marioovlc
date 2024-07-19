@@ -16,15 +16,15 @@
 
 ## Sobre mí
 
-- **Ubicación:** Valencia, España
-- **Idiomas:** Español, Valenciano, Inglés
-- **Especialización:** Versatilidad en distintas áreas
-- **Intereses:** Programación y desarrollo tecnológico
-- **Hobbies:** Jugar videojuegos y explorar el diseño y desarrollo de los mismos
-- **Educación:** Educación Secundaria Obligatoria (ESO), Técnico en Sistemas Microinformáticos y Redes (Grado Medio) y actualmente finalizando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) (Grado Superior)
-- **Enfoque:** Abierto a aprender y explorar nuevas tecnologías
-- **Fortalezas:** Persistente hasta alcanzar los objetivos
-- **Debilidades:** Suelo sentirme frustrado con desafíos complejos
+- **Ubicación:** Valencia, España 🌍
+- **Idiomas:** Español 🇪🇸, Valenciano 🏴, Inglés 🇬🇧
+- **Especialización:** Versatilidad en distintas áreas 🔄
+- **Intereses:** Programación y desarrollo tecnológico 💻✨
+- **Hobbies:** Jugar videojuegos 🎮 y explorar el diseño y desarrollo de los mismos 🎨
+- **Educación:** ESO 🎓, Técnico en Sistemas Microinformáticos y Redes (Grado Medio) 🛠️ y actualmente finalizando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) (Grado Superior) 📚
+- **Enfoque:** Abierto a aprender y explorar nuevas tecnologías 🚀
+- **Fortalezas:** Persistente hasta alcanzar los objetivos 💪
+- **Debilidades:** Suelo sentirme frustrado con desafíos complejos 😅
 
 ## Herramientas y Tecnologías
 
