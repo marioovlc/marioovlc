@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Mario Fernández</h1>
-<p align="center">Técnico en SMR y estudiante de DAM | Apasionado por la programación y los videojuegos</p>
+<h1 align="center">Hola, soy Mario Fernández 👋</h1>
+<p align="center">Técnico en SMR y estudiante de DAM | Apasionado por la programación y el desarrollo tecnológico</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mario-fernandez&style=plastic&color=blueviolet" alt="Profile Views"/>
@@ -16,19 +16,26 @@
 
 ## Sobre mí
 
-- **Ubicación:** Valencia, Spain
+- **Ubicación:** Valencia, España
 - **Idiomas:** Español, Valenciano, Inglés
-- **Especialización:** Un poco de todo
-- **Intereses:** Todo sobre programación
-- **Hobbies:** Jugar videojuegos y aprender a hacerlos alguna vez
-- **Educación:** ESO, Técnico SMR (Grado medio) y acabando DAM (Grado Superior)
-- **Enfoque:** Estoy abierto para aprender
-- **Fortalezas:** Hasta que no me sale no paro
-- **Debilidades:** Me rallo fácilmente
+- **Especialización:** Versatilidad en distintas áreas
+- **Intereses:** Programación y desarrollo tecnológico
+- **Hobbies:** Jugar videojuegos y explorar el diseño y desarrollo de los mismos
+- **Educación:** Educación Secundaria Obligatoria (ESO), Técnico en Sistemas Microinformáticos y Redes (Grado Medio) y actualmente finalizando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) (Grado Superior)
+- **Enfoque:** Abierto a aprender y explorar nuevas tecnologías
+- **Fortalezas:** Persistente hasta alcanzar los objetivos
+- **Debilidades:** Suelo sentirme frustrado con desafíos complejos
 
 ## Herramientas y Tecnologías
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg) ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" alt="CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+</p>
 
 ## Contacto
 
