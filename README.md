@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Mario Fernández 👋</h1>
-<p align="center">Técnico en SMR y estudiante de DAM | Apasionado por la programación y el desarrollo tecnológico</p>
+<h1 align="center">¡Hola, soy Mario Fernández! 👋</h1>
+<p align="center">💻 Técnico en SMR | Estudiante de DAM | Apasionado por la programación y el desarrollo tecnológico 🚀</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mario-fernandez&style=plastic&color=blueviolet" alt="Profile Views"/>
@@ -14,19 +14,24 @@
     </a>
 </p>
 
-## Sobre mí
+---
 
-- **Ubicación:** Valencia, España 🌍
-- **Idiomas:** Español 🇪🇸, Valenciano 🏴, Inglés 🇬🇧
-- **Especialización:** Versatilidad en distintas áreas 🔄
-- **Intereses:** Programación y desarrollo tecnológico 💻✨
-- **Hobbies:** Jugar videojuegos 🎮 y explorar el diseño y desarrollo de los mismos 🎨
-- **Educación:** ESO 🎓, Técnico en Sistemas Microinformáticos y Redes (Grado Medio) 🛠️ y actualmente finalizando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM) (Grado Superior) 📚
-- **Enfoque:** Abierto a aprender y explorar nuevas tecnologías 🚀
-- **Fortalezas:** Persistente hasta alcanzar los objetivos 💪
-- **Debilidades:** Suelo sentirme frustrado con desafíos complejos 😅
+## 🚀 Sobre mí
 
-## Herramientas y Tecnologías
+- 📍 **Ubicación:** Valencia, España  
+- 🌍 **Idiomas:** Español 🇪🇸, Valenciano 🏴, Inglés 🇬🇧  
+- 🎓 **Formación:**  
+  - Técnico en Sistemas Microinformáticos y Redes (Grado Medio) 🛠️  
+  - Finalizando Desarrollo de Aplicaciones Multiplataforma (Grado Superior) 📚  
+- 🔥 **Intereses:** Programación, desarrollo tecnológico y exploración de nuevas tecnologías  
+- 🎮 **Hobbies:** Videojuegos y desarrollo de experiencias interactivas  
+- 💡 **Habilidades:** Adaptabilidad, aprendizaje continuo y resolución de problemas  
+- 💪 **Fortalezas:** Persistencia y compromiso con los objetivos  
+- 😅 **Áreas de mejora:** Puedo frustrarme con desafíos complejos, ¡pero eso solo me motiva a seguir aprendiendo!  
+
+---
+
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
@@ -37,9 +42,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
 </p>
 
-## Contacto
+---
 
-- **Correo electrónico:** Próximamente
-- **LinkedIn:** [Mario Fernández](https://www.linkedin.com/in/mario-fern%C3%A1ndez-9417502a1/)
+## 📬 Contacto
 
-<!-- Última edición: 18/01/2024 -->
+📧 **Correo electrónico:** mariotorrent2005@gmail.com 
+🔗 **LinkedIn:** [Mario Fernández](https://www.linkedin.com/in/mario-fern%C3%A1ndez-9417502a1/)  
+
+<!-- Última edición: 05/02/2025 -->
