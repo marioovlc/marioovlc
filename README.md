@@ -1,17 +1,17 @@
 <!-- ═════════════ HEADER ═════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:FF79C6&height=220&section=header&text=Mario%20Fern%C3%A1ndez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Valencia%2C%20Spain&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:FF79C6&height=220&section=header&text=Mario%20Fern%C3%A1ndez&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Web%20%E2%80%A2%20AI&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Mario+%F0%9F%91%8B;Full+stack+web+developer;Turning+ideas+into+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Mario+%F0%9F%91%8B;Web+%26+Software+Developer;Deep+into+AI+right+now;Turning+ideas+into+useful+products" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Open%20to%20work-50FA7B?style=for-the-badge&logo=checkmarx&logoColor=282a36" alt="Open to work" />
 <img src="https://img.shields.io/badge/Valencia%2C%20Spain-FF79C6?style=for-the-badge&logo=googlemaps&logoColor=282a36" alt="Location" />
-<img src="https://img.shields.io/badge/Web%20Development-FFB86C?style=for-the-badge&logo=html5&logoColor=282a36" alt="Focus" />
+<img src="https://img.shields.io/badge/AI%20%C2%B7%20Web%20%C2%B7%20Software-FFB86C?style=for-the-badge" alt="Focus" />
 
 </div>
 
@@ -20,19 +20,21 @@
 <!-- ═════════════ ABOUT ═════════════ -->
 ## 🧑‍💻 About me
 
-I'm a software developer passionate about building clean, functional web experiences. I enjoy working across the full stack, from crafting intuitive UIs to designing solid backend logic.
+I'm a software developer who loves turning ideas into web products that work well and look even better. I work end to end, from intuitive interfaces to the backend logic behind them.
+
+Right now I'm deep into **AI** and how to use it to build more useful software, while I keep growing in web development and software. I don't tie myself to a single technology: I pick whatever fits each project and learn what it takes.
 
 | | |
 |---|---|
-| 🔭 **Now** | Working on personal web projects |
-| 🌱 **Learning** | Always something new |
-| 💬 **Ask me about** | Java, Astro, React, Node.JS |
+| 🔭 **Now** | Building personal projects and diving into AI |
+| 🌱 **Learning** | AI, web & software, always something new |
+| 💬 **Ask me about** | AI, web development, software |
 | 📍 **Based in** | Valencia, Spain |
 
 <br/>
 
 <!-- ═════════════ TECH STACK ═════════════ -->
-## 🛠️ Tech Stack
+## 🛠️ Tech & Tools
 
 <div align="center">
 
@@ -45,6 +47,10 @@ I'm a software developer passionate about building clean, functional web experie
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark" height="55" alt="tools" />
+
+<br/>
+
+<sub>...and whatever each project needs 🚀</sub>
 
 </div>
 
@@ -84,7 +90,7 @@ I'm a software developer passionate about building clean, functional web experie
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mario-fern%C3%A1ndez-9417502a1" target="_blank">
+<a href="https://www.linkedin.com/in/mariofernandez-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mario%20Fern%C3%A1ndez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/marioovlc" target="_blank">
